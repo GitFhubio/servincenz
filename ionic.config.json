@@ -1,0 +1,7 @@
+{
+  "name": "vinclient",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
